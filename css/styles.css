@@ -3,8 +3,8 @@
    }
 
   body {
-    background-color: slategray;
-    font-family: monospace;
+    background-color: rgb(246, 235, 217);
+    font-family: Helvetica, sans-serif;
     font-size: 1em;
   }
 
@@ -14,10 +14,11 @@
 
   input {
     padding: 1.5em;
-    margin: 2em;
+    margin: 4em;
     width: 55%;
-    border-radius: 8px;
+    border-radius: 10px;
     border-style: none;
+    background-color: rgb(247, 202, 140);
   }
 
   .container {
@@ -41,19 +42,3 @@
   img:hover {
     opacity: 0.6;
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// MEDIA QUERY //
